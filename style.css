@@ -10,10 +10,7 @@ body{
     float: left;
     background-color: aqua;
 }
-#right-column{
-    background-color: whitesmoke;
-    height: 100%;
-}
+
 #right-column img{
     width: 230px;
     margin-left: 140px;
